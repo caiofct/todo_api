@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: T1
+  order: 1
+  status: 'todo'
+
+two:
+  description: T2
+  order: 2
+  status: 'done'
